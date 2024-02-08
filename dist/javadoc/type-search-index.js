@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"fastfoodkitchen","l":"BurgerOrder"},{"p":"fastfoodkitchen","l":"FastFoodKitchen"},{"p":"fastfoodkitchen","l":"Main"}];updateSearchResults();

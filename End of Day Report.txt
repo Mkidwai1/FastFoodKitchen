@@ -1,0 +1,10 @@
+The following products were sold today: 
+
+3,15,4,10,false,1,false
+10,10,3,4,true,2,false
+1,1,1,2,false,3,false
+1,0,0,1,false,0,false
+Hamburgers Total: 15
+Cheeseburger Total: 26
+Veggieburger Total: 8
+Soda Total: 17

@@ -1,0 +1,4 @@
+orderID,numHamburgers,numCheeseburgers,numVeggieburgers,numSodas,toGo
+1,5,3,1,5,false
+2,8,2,7,0,true
+3,6,1,1,8,true
